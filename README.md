@@ -1,2 +1,3 @@
 # My-first-Project
-Python learning projects
+hello.py
+print("Hello, World!")
