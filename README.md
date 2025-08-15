@@ -1,2 +1,2 @@
 # My-first-Project
-Python leaening projects
+Python learning projects
